@@ -1,0 +1,4 @@
+Belsi, May 20th 2020, 200, 70, Video
+Sifora, June 12th 2019, 300, 80, Photo
+Fevi, January 1st 2021, 600, 100, Video
+Snit,May 3rd 2010,800,200, photo
